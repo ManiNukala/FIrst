@@ -1,55 +1,62 @@
 # Data Science Resources
-In this repository I will be including my curated list of online learning resources.
+In this repository I will be including my curated list of online learning resources. 
 
-MODULE 1 (MATH PRE REQUISITES AND INTRODUCTION TO DATA SCIENCE WORKFLOW)
-Data Science A-Z – Udemy
-https://www.udemy.com/datascience/learn/v4/overview
-Introduction to Probability – The science of uncertainty (EDX)
-https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
-Udacity’s Descriptive and Inferential Statistics Courses
-https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
-https://www.udacity.com/course/intro-to-inferential-statistics--ud201
-Linear Algebra – Khan Academy
-Calculus and Multivariable Courses – Khan Academy
-Optimization – Khan Academy
-https://www.khanacademy.org/
-Essence of Calculus on Youtube
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+MODULE 1 (MATH PRE REQUISITES AND INTRODUCTION TO DATA SCIENCE WORKFLOW) <br />
+Data Science A-Z – Udemy  <br />
+https://www.udemy.com/datascience/learn/v4/overview <br />
+Introduction to Probability – The science of uncertainty (EDX) <br />
+https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2 <br />
+Udacity’s Descriptive and Inferential Statistics Courses <br />
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827 <br />
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201 <br />
+Linear Algebra – Khan Academy <br />
+Calculus and Multivariable Courses – Khan Academy <br />
+Optimization – Khan Academy <br />
+https://www.khanacademy.org/ <br />
+Essence of Calculus on Youtube <br />
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw <br /> <br />
 
-MODULE 2 (CODING & CS BASED PRE-REQUISITES PRE-REQUISITES)
-Google Python Class
-https://developers.google.com/edu/python/
-How to think like a computer scientist & Problems Solving with Algorithms and Data Structures in Python (Interactive book)
-http://interactivepython.org/runestone/default/user/login
-SQL tutorials on W3 schools
-https://www.w3schools.com/sql/sql_injection.asp
+MODULE 2 (CODING & CS BASED PRE-REQUISITES PRE-REQUISITES) <br />
+Google Python Class <br />
+https://developers.google.com/edu/python/ <br />
+How to think like a computer scientist & Problems Solving with Algorithms and Data Structures in Python (Interactive book) <br />
+http://interactivepython.org/runestone/default/user/login <br />
+SQL tutorials on W3 schools <br />
+https://www.w3schools.com/sql/sql_injection.asp <br /> <br />
 
-MODULE 3 (A DEEPER DIVE)
-Data Science CS 109 – Harvard
-http://cs109.github.io/2015/
-Machine Learning _ Andrew Ng Coursera
-https://www.coursera.org/learn/machine-learningutm_source=gg&utm_medium=sem&campaignid=685340575&adgroupid=46849728719&device=c&keyword=machine%20learning%20stanford%20coursera&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=227282510621&hide_mobile_promo&gclid=CjwKCAiAvMPRBRBIEiwABuO6qaPgoKpqxpEjVpHeJN3PCacU9YJNcWqV9V41hLRm5VYQjLq8RfVNoxoC_DAQAvD_BwE
-Introduction to Computational Statistics Using Python
-https://people.duke.edu/~ccc14/sta-663/
-Sentdex Youtube Channel
-https://www.youtube.com/user/sentdex
-Data Quest – Data Scientist Career Path (overall coverage)
-https://www.dataquest.io/path/data-scientist
-Tableau Master Class – Udemy
-https://www.udemy.com/tableau10/
-https://www.udemy.com/tableau10-advanced/
-Data Wrangling with MongoDB -Udacity
-https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
-Spark with Scala 2.0 – Udemy
-https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/learn/v4/overview
+MODULE 3 (A DEEPER DIVE) <br />
+Data Science CS 109 – Harvard <br />
+http://cs109.github.io/2015/ <br />
+Machine Learning _ Andrew Ng Coursera <br />
+https://www.coursera.org/learn/machine-learningutm_source=gg&utm_medium=sem&campaignid=685340575&adgroupid=46849728719&device=c&keyword=machine%20learning%20stanford%20coursera&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=227282510621&hide_mobile_promo&gclid=CjwKCAiAvMPRBRBIEiwABuO6qaPgoKpqxpEjVpHeJN3PCacU9YJNcWqV9V41hLRm5VYQjLq8RfVNoxoC_DAQAvD_BwE <br />
+Introduction to Computational Statistics Using Python <br />
+https://people.duke.edu/~ccc14/sta-663/ <br />
+Sentdex Youtube Channel <br />
+https://www.youtube.com/user/sentdex <br />
+Data Quest – Data Scientist Career Path (overall coverage) <br />
+https://www.dataquest.io/path/data-scientist <br />
+Tableau Master Class – Udemy <br />
+https://www.udemy.com/tableau10/ <br />
+https://www.udemy.com/tableau10-advanced/ <br />
+Data Wrangling with MongoDB -Udacity <br />
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032 <br />
+Spark with Scala 2.0 – Udemy <br />
+https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/learn/v4/overview <br /> <br />
 
-MODULE 4 (CORE AI) 
-DEEP LEARNING
-Fast ai : Practical Deep Learning for Coders ( Part 1 and 2) by Jeremy Howard
-http://course.fast.ai/
-Lazy programmer course series on Udemy 
-https://deeplearningcourses.com/course_order
-REINFORCEMENT LEARNING
-Reinforcement learning course on Udacity
-https://www.udacity.com/course/reinforcement-learning--ud600
+MODULE 4 (CORE AI) <br /> 
+DEEP LEARNING <br />
+Fast ai : Practical Deep Learning for Coders ( Part 1 and 2) by Jeremy Howard <br />
+http://course.fast.ai/ <br />
+Lazy programmer course series on Udemy  <br />
+https://deeplearningcourses.com/course_order <br />
+REINFORCEMENT LEARNING <br />
+Reinforcement learning course on Udacity <br />
+https://www.udacity.com/course/reinforcement-learning--ud600 <br />
+
+MODULE 5 DATA ENGINEERING <br />
+Frank Kane's Udemy Courses <br />
+https://www.udemy.com/user/frankkane/ <br />
+Courses and Learning Paths on Big Data University <br />
+https://archive.bigdatauniversity.com/courses/ <br />
+ 
 
