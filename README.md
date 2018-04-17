@@ -50,8 +50,7 @@ http://course.fast.ai/
 Lazy programmer course series on Udemy 
 https://deeplearningcourses.com/course_order
 REINFORCEMENT LEARNING
-Reinforcement learning course on udacity
+Reinforcement learning course on Udacity
 https://www.udacity.com/course/reinforcement-learning--ud600
-
 
 
