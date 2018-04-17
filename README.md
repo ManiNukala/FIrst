@@ -28,7 +28,7 @@ MODULE 3 (A DEEPER DIVE)
 Data Science CS 109 – Harvard
 http://cs109.github.io/2015/
 Machine Learning _ Andrew Ng Coursera
-https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&campaignid=685340575&adgroupid=46849728719&device=c&keyword=machine%20learning%20stanford%20coursera&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=227282510621&hide_mobile_promo&gclid=CjwKCAiAvMPRBRBIEiwABuO6qaPgoKpqxpEjVpHeJN3PCacU9YJNcWqV9V41hLRm5VYQjLq8RfVNoxoC_DAQAvD_BwE
+https://www.coursera.org/learn/machine-learningutm_source=gg&utm_medium=sem&campaignid=685340575&adgroupid=46849728719&device=c&keyword=machine%20learning%20stanford%20coursera&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=227282510621&hide_mobile_promo&gclid=CjwKCAiAvMPRBRBIEiwABuO6qaPgoKpqxpEjVpHeJN3PCacU9YJNcWqV9V41hLRm5VYQjLq8RfVNoxoC_DAQAvD_BwE
 Introduction to Computational Statistics Using Python
 https://people.duke.edu/~ccc14/sta-663/
 Sentdex Youtube Channel
@@ -52,5 +52,4 @@ https://deeplearningcourses.com/course_order
 REINFORCEMENT LEARNING
 Reinforcement learning course on Udacity
 https://www.udacity.com/course/reinforcement-learning--ud600
-
 
